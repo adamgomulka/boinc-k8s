@@ -1,0 +1,3 @@
+[submodule "serverless-stripe-frontend"]
+	path = serverless-stripe-frontend
+	url = https://github.com/yosriady/serverless-stripe-frontend
